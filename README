@@ -1,0 +1,6 @@
+Rainbow Blaster
+^^^^^^^^^^^^^^^
+
+Little Game to test the PSP development.
+To compile, please download minpspw and install it to c:\pspsdk,
+otherwise adjust paths in the make- and projectfile.

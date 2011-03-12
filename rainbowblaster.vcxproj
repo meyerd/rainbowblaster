@@ -11,7 +11,9 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
+    <None Include="background_star.png" />
     <None Include="character_main.png" />
+    <None Include="enemy_01.png" />
     <None Include="Makefile" />
     <None Include="rainbowblaster_menu_icon.png" />
     <None Include="ray_sprite.png" />

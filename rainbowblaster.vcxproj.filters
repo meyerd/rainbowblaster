@@ -25,6 +25,12 @@
     <None Include="character_main.png">
       <Filter>Ressourcendateien</Filter>
     </None>
+    <None Include="background_star.png">
+      <Filter>Ressourcendateien</Filter>
+    </None>
+    <None Include="enemy_01.png">
+      <Filter>Ressourcendateien</Filter>
+    </None>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="main.c">
